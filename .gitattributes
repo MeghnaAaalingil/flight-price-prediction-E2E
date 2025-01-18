@@ -1,0 +1,7 @@
+artifacts/model_latest.pkl filter=lfs diff=lfs merge=lfs -text
+artifacts/*.pkl filter=lfs diff=lfs merge=lfs -text
+model_latest.pkl filter=lfs diff=lfs merge=lfs -text
+processor.pkl filter=lfs diff=lfs merge=lfs -text
+preprocessor.pkl filter=lfs diff=lfs merge=lfs -text
+artifacts/model.pkl filter=lfs diff=lfs merge=lfs -text
+artifacts/preprocessor.pkl filter=lfs diff=lfs merge=lfs -text
